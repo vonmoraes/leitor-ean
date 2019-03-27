@@ -2,9 +2,9 @@
 
 Data de entrega: 08/04/2019 (primeira parte) e 05/06/2019 (trabalho completo).
 ### Autores
---- Arthur Ladislau.
---- Henrique Schiess.
---- Lucas Moraes.
+- Arthur Ladislau.
+- Henrique Schiess.
+-- Lucas Moraes.
 ### Descrição
 
 Aborda a implementação de um leitor de código de barras no formato EAN13.
