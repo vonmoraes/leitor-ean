@@ -164,7 +164,7 @@ public class Tela_inicial extends javax.swing.JFrame {
             ImageIcon imagem_icone = new ImageIcon(imagem_dimensionada);
             // Alterar imagem do barcode
             img_Barcode.setIcon(imagem_icone);
-            System.out.println("Imagem :" + width + "x" + height +";");
+            System.out.println("Imagem :" + width + "x" + height +"pixels;");
         }
     }//GEN-LAST:event_btn_AbrirImagemActionPerformed
 
