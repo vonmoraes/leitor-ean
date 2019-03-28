@@ -1,8 +1,8 @@
 #### Referências:
 
-[Converter para tons de cinza. (Grayscale) ](https://www.dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-grayscale-image-in-java)
-[Github + netbeans.](https://www.devmedia.com.br/usando-o-github-e-o-netbeans/24603)
-[Limiarização. (Threshold)](https://sites.google.com/site/imgprocgpu/limiarizacao)
+[Converter para tons de cinza. (Grayscale) ](https://www.dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-grayscale-image-in-java) //
+[Github + netbeans.](https://www.devmedia.com.br/usando-o-github-e-o-netbeans/24603)  //
+[Limiarização. (Threshold)](https://sites.google.com/site/imgprocgpu/limiarizacao)  //
 
 [wiki. image segmentation](https://en.wikipedia.org/wiki/Image_segmentation)
 [wiki. grayscale](https://en.wikipedia.org/wiki/Grayscale)
