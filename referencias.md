@@ -1,4 +1,4 @@
-#### Referências:
+### Referências:
 
 [Converter para tons de cinza. (Grayscale) ](https://www.dyclassroom.com/image-processing-project/how-to-convert-a-color-image-into-grayscale-image-in-java)
 
@@ -6,7 +6,7 @@
 
 [Limiarização. (Threshold)](https://sites.google.com/site/imgprocgpu/limiarizacao) 
 
-wikipédia.
+####wikipédia.
 [wiki. image segmentation](https://en.wikipedia.org/wiki/Image_segmentation)
 
 [wiki. grayscale](https://en.wikipedia.org/wiki/Grayscale)
@@ -19,7 +19,7 @@ wikipédia.
 
 [wiki. object detection](https://en.wikipedia.org/wiki/Object_detection)
 
-Outros links
+####Outros links
 
 [processo de reconhecimento em haskell](http://book.realworldhaskell.org/read/barcode-recognition.html)
 
@@ -62,7 +62,7 @@ Outros links
 
 [Mohd Saad, Norhashimah. (2013). Barcode Recognition System.](https://www.researchgate.net/publication/264623038_Barcode_Recognition_System)
 
-Passos para o reconhecimento de imagens: 
+###Passos para o reconhecimento de imagens: 
 1. Capturar imagem. 
 2. Converter para o espaço monocromático. 
 3. Limiarização para o histograma. 
